@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Pronóstico de Ventas",
+  "description": "Herramienta interactiva en español para construir, evaluar y simular modelos de regresión lineal simple y múltiple siguiendo la metodología CRISP-DM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
